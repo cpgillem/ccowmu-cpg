@@ -1,3 +1,7 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
 .minutes h1 {
 	font-size: 24px;
 }
@@ -5,3 +9,4 @@
 .minutes h2 {
 	font-size: 20px;
 }
+
