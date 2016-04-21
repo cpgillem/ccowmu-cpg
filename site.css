@@ -10,3 +10,11 @@ body {
 	font-size: 20px;
 }
 
+.panel-default {
+	border-color: #8361BA;
+}
+
+.panel-default > .panel-heading {
+	color: #efefef;
+	background-color: #36008C;
+}
