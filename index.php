@@ -182,6 +182,11 @@
                 ACS Site<br/>
                 <a href="http://github.com/acswmu/acs-wmu-official-site">Github Repo</a>
               </p>
+
+              <p>
+                This Site<br/>
+                <a href="http://github.com/cpgillem/ccowmu-cpg">Github Repo</a>
+              </p>
             </div>
           </div>
           <!-- END PROJECTS SECTION -->
