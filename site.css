@@ -10,8 +10,15 @@ body {
 	font-size: 20px;
 }
 
-.panel-default {
-	border-color: #8361BA;
+.page-header {
+	padding: 0px;
+	border: none;
+}
+
+.panel-default,
+.panel-default > .panel-heading {
+	border-color: #36008C;
+	border-radius: 0px;
 }
 
 .panel-default > .panel-heading {
