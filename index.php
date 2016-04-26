@@ -27,7 +27,7 @@
 
       <!-- PAGE HEADER -->
       <div class="page-header">
-        <h1>CPG <small>Secretary of Computer Club</small></h1>
+        <h1>Cade Gillem <small>Vice President of Operations</small></h1>
       </div>
 
       <!-- PAGE CONTAINER -->
@@ -43,11 +43,7 @@
             </div>
 
             <div class="panel-body">
-              <p>Pulled from the <a href="https://cclub.cs.wmich.edu/wiki/User:Cpg">wiki</a>:</p>
-
-              <p>I'm cpg (AKA cpgsquared, csquared, arcade, or some other ridiculous nickname that might strike my fancy). I'm a third year Computer Club member and a Computer Science major. For this year, I am the secretary of Computer Club, meaning I take the minutes, schedule events, and conduct any other internal day-to-day business for the club. I'm also the IT Coordinator for the Western Student Association and I work in IT for Extended University Programs, a WMU department.</p>
-
-              <p>I've been interested in computers since I can remember, and got into programming in Junior High. On IRC I mostly hang out in #, #officers, #programming, #hackathons, #geekouts, #plan, and of course #geekboy. I'm in #2230, #3310, and #4430 to answer questions about classes, too. Find me in one of those places or message me if you have things to say.</p>
+              <p>I'm Cade Gillem, a third year Computer Club member and a Computer Science major. For 2016-2017, I will be serving as the Vice President of Operations of Computer Club, and I will be in charge of planning events and talks, the biggest and most notable being PLAN. I also work in IT for Extended University Programs, a WMU department, and work on a lot of personal projects in my free time.</p>
 
               <p>Things I can help you with or at least attempt to: Java, C++, C#, Python, PHP, HTML/CSS, SQL, possibly more.</p>
 
