@@ -44,8 +44,6 @@
 
               <p><em>Editor of Choice:</em> vim</p>
 
-              <p><em>Operating System of Choice:</em> Arch Linux</p>
-
               <p><em>Things I can help you with or at least attempt to:</em> Java, C/C++, Python, PHP, HTML/CSS, SQL, Laravel, possibly more.</p>
 
               <p><em>Things I want to get better at:</em> JavaScript, SQL, Haskell, Go, Rust, Assembly, Linux, Security, Server Administration, Life</p>
