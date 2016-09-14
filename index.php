@@ -24,7 +24,7 @@
 
       <!-- PAGE HEADER -->
       <div class="page-header">
-        <h1>Cade Gillem <small>Vice President of Operations</small></h1>
+        <h1>Cade Gillem</h1>
       </div>
 
       <!-- PAGE CONTAINER -->
@@ -40,15 +40,19 @@
             </div>
 
             <div class="panel-body">
-              <p>I'm Cade Gillem, a third year Computer Club member and a Computer Science major. For 2016-2017, I will be serving as the Vice President of Operations of Computer Club, and I will be in charge of planning events and talks, the biggest and most notable being PLAN. I also work in IT for Extended University Programs, a WMU department, and work on a lot of personal projects in my free time.</p>
+              <p>I'm Cade Gillem, a third year Computer Club member and a Computer Science major. I work as a software engineer for the Computer Aided Engineering Center, which is part of the College of Engineering and Applied Sciences, and work on a lot of personal projects in my free time.</p>
 
-              <p>Things I can help you with or at least attempt to: Java, C++, C#, Python, PHP, HTML/CSS, SQL, possibly more.</p>
+              <p><em>Editor of Choice:</em> vim</p>
 
-              <p>Things I really want to get better at: JavaScript, SQL, Haskell, Assembly, Linux, Server Administration, Life</p>
+              <p><em>Operating System of Choice:</em> Arch Linux</p>
 
-              <p>Classes I've Taken: CS1110 (Gonna miss Dr. Nelson), CS1120 (Java Friendship Lab), CS1106 (The biggest data), CS1310 (The Math side of CS), CS4430 (Living in the Database), CS2230 (Microcontroller Party Every Day), CS 3310 (So much specs)</p>
+              <p><em>Things I can help you with or at least attempt to:</em> Java, C/C++, Python, PHP, HTML/CSS, SQL, Laravel, possibly more.</p>
 
-              <p>Things I Like: Unix, Gamedev, Punk and Metal, Netflix, Road Trips, Making Pixel Art, Minecraft, Team Fortress 2, and probably more random things.</p>
+              <p><em>Things I want to get better at:</em> JavaScript, SQL, Haskell, Go, Rust, Assembly, Linux, Security, Server Administration, Life</p>
+
+              <p><em>Classes I've Taken:</em> CS1110, CS1120, CS1106 (not required anymore, thank Christ), CS1310, CS4430, CS2230, CS2240 (now CS3240), CS 3310</p>
+
+              <p><em>Things I like:</em> music (indie, punk, emo, and metal), TV shows, road trips, making pixel art, Minecraft, Team Fortress 2, Overwatch, and probably more things.</p>
             </div>
           </div>
           <!-- END ABOUT -->
