@@ -40,7 +40,7 @@
             </div>
 
             <div class="panel-body">
-              <p>I'm Cade Gillem, a third year Computer Club member and a Computer Science major. I work as a software engineer for the Computer Aided Engineering Center, which is part of the College of Engineering and Applied Sciences, and work on a lot of personal projects in my free time.</p>
+              <p>I'm Cade Gillem, a fourth year Computer Club member and Computer Science major. I work as a software engineer for the Computer Aided Engineering Center, which is part of the College of Engineering and Applied Sciences, and work on a lot of personal projects in my free time.</p>
 
               <p><em>Editor of Choice:</em> vim</p>
 
